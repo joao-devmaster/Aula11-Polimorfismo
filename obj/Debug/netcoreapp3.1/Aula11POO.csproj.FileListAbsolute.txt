@@ -1,0 +1,13 @@
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aula11POO\bin\Debug\netcoreapp3.1\Aula11POO.exe
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aula11POO\bin\Debug\netcoreapp3.1\Aula11POO.deps.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aula11POO\bin\Debug\netcoreapp3.1\Aula11POO.runtimeconfig.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aula11POO\bin\Debug\netcoreapp3.1\Aula11POO.runtimeconfig.dev.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aula11POO\bin\Debug\netcoreapp3.1\Aula11POO.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aula11POO\bin\Debug\netcoreapp3.1\Aula11POO.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aula11POO\obj\Debug\netcoreapp3.1\Aula11POO.csprojAssemblyReference.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aula11POO\obj\Debug\netcoreapp3.1\Aula11POO.csproj.CoreCompileInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aula11POO\obj\Debug\netcoreapp3.1\Aula11POO.AssemblyInfoInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aula11POO\obj\Debug\netcoreapp3.1\Aula11POO.AssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aula11POO\obj\Debug\netcoreapp3.1\Aula11POO.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aula11POO\obj\Debug\netcoreapp3.1\Aula11POO.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\Aula11POO\obj\Debug\netcoreapp3.1\Aula11POO.genruntimeconfig.cache
